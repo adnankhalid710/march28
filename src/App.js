@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           In the name of Allah.
-          March 28, 2024.Wednesday
+          March 28, 2024.Wednesday.
+          Have a nice day today.
         </p>
         <a
           className="App-link"
