@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1> In the name of Allah</h1>
-    <img src="ginko.jpg" />
+      <a href="https://www.researchgate.net/profile/Sadaf-Habib"> Sadaf Habib </a> 
     </div>
   );
 }
