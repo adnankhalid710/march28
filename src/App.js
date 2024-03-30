@@ -5,9 +5,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      
-       
-        <img src="ginko.jpg" alt="Dinosaur" />
         <p>
           Wednesday, March 28, 2024.Wednesday.
           
@@ -22,6 +19,7 @@ function App() {
           Sadaf Habib
         </a>
       </header>
+      <img src="ginko.jpg" alt="Dinosaur" />
     </div>
   );
 }
