@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
       
-        <img src={logo} className="ginko.jpg" alt="logo" />
-        
+       
+        <img src="ginko.jpg" alt="Dinosaur" />
         <p>
           Wednesday, March 28, 2024.Wednesday.
           
@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dr. Sadaf Habib
+          Sadaf Habib
         </a>
       </header>
     </div>
