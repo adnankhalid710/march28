@@ -8,17 +8,17 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           In the name of Allah.
-          March 28, 2024.Wednesday.
-          Have a nice day today.
+          Wednesday, March 28, 2024.Wednesday.
           
+         
         </p>
         <a
-          className="Dr. Sadaf Habib"
+          className="App-link"
           href="https://www.researchgate.net/profile/Sadaf-Habib"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dr. Sadaf Habib
         </a>
       </header>
     </div>
